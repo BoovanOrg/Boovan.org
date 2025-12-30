@@ -33,7 +33,7 @@ stop:
 
 run:
 	docker run -d --name $(CONTAINER_NAME) \
-		-p 80:80 \
+		-p 28080:80 \
 		-v $(PWD)/$(CADDYFILE):/etc/caddy/Caddyfile \
 		$(IMAGE_NAME)
 
