@@ -4,7 +4,7 @@ This document provides guidelines for AI coding agents working on the boovan.org
 
 ## Project Overview
 
-This is a static website for The Boovan (布宛社), a North American Chinese band, built with Hugo using the Blowfish theme and deployed via GitHub Pages. The site features bilingual support (English + Chinese), contact forms, music demos, and service information.
+This is a static website for The Boovan (不晚), a North American Chinese band, built with Hugo using the Blowfish theme and deployed via GitHub Pages. The site features bilingual support (English + Chinese), contact forms, music demos, and service information.
 
 ## Build, Test, and Deployment Commands
 

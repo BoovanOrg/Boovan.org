@@ -1,6 +1,6 @@
 # The Boovan Website
 
-Official website for The Boovan (布宛社) - a North American Chinese band based in North Texas.
+Official website for The Boovan (不晚) - a North American Chinese band based in North Texas.
 
 **Never Too Late** - Playing for fun, love, and the people we care about.
 
@@ -141,4 +141,4 @@ Blowfish theme: [MIT License](https://github.com/nunocoracao/blowfish/blob/main/
 
 ---
 
-**布宛社 · Never Too Late** 🎸🎵
+**不晚 · Never Too Late** 🎸🎵

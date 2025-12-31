@@ -147,4 +147,4 @@ Refer to:
 - [README.md](README.md) - Quick start and overview
 - [Blowfish Docs](https://blowfish.page/docs/) - Theme documentation
 
-**布宛社 · Never Too Late** 🎸
+**不晚 · Never Too Late** 🎸

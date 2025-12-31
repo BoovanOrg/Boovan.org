@@ -1,5 +1,5 @@
 ---
-title: "About The Boovan (布宛社)"
+title: "About The Boovan (不晚)"
 description: "Learn about The Boovan band, our members, and our story"
 showTableOfContents: true
 ---
@@ -8,7 +8,7 @@ showTableOfContents: true
 A North Texas Chinese American band playing for fun, love, and community.
 {{< /lead >}}
 
-![The Boovan Band](/images/band2025.jpg "The Boovan - 布宛社")
+![The Boovan Band](/images/band2025.jpg "The Boovan - 不晚")
 
 ## 致布宛
 
@@ -21,7 +21,7 @@ A North Texas Chinese American band playing for fun, love, and community.
 
 ## Our Story
 
-The Boovan (布宛社) was born from a simple idea: it's never too late to make music that matters. We're a group of Chinese American musicians based in the North Texas area who came together to share our love of music with our community.
+The Boovan (不晚) was born from a simple idea: it's never too late to make music that matters. We're a group of Chinese American musicians based in the North Texas area who came together to share our love of music with our community.
 
 Our name "布宛" (Bù Wǎn) combines the characters for "cloth/spread" and "graceful/content," while "社" means community or association. Together, we represent the graceful community we've built through music.
 

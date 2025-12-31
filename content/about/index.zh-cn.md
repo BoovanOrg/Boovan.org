@@ -1,6 +1,6 @@
 ---
-title: "关于布宛社 (The Boovan)"
-description: "了解布宛社乐队、我们的成员和我们的故事"
+title: "关于不晚 (The Boovan)"
+description: "了解不晚乐队、我们的成员和我们的故事"
 showTableOfContents: true
 ---
 
@@ -8,7 +8,7 @@ showTableOfContents: true
 北德州华裔美国人乐队，为乐趣、爱和社区而演奏。
 {{< /lead >}}
 
-![布宛社乐队](/images/band2025.jpg "布宛社 - The Boovan")
+![不晚乐队](/images/band2025.jpg "不晚 - The Boovan")
 
 ## 致布宛
 
@@ -21,7 +21,7 @@ showTableOfContents: true
 
 ## 我们的故事
 
-布宛社（The Boovan）源于一个简单的想法：做有意义的音乐永远不会太晚。我们是一群位于北德州地区的华裔美国音乐人，聚在一起与我们的社区分享对音乐的热爱。
+不晚（The Boovan）源于一个简单的想法：做有意义的音乐永远不会太晚。我们是一群位于北德州地区的华裔美国音乐人，聚在一起与我们的社区分享对音乐的热爱。
 
 我们的名字"布宛"将"布"（传播）和"宛"（优雅、满足）两个字结合在一起，而"社"意味着社区或协会。我们代表着通过音乐建立的优雅社区。
 

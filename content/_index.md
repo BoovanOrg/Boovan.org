@@ -4,10 +4,10 @@ description: "North American Chinese Band - Playing for fun, love, and the peopl
 ---
 
 {{< lead >}}
-**布宛社 · Never Too Late**
+**不晚 · Never Too Late**
 {{< /lead >}}
 
-![The Boovan Band](/images/band2025.jpg "The Boovan - 布宛社")
+![The Boovan Band](/images/band2025.jpg "The Boovan - 不晚")
 
 ## 致布宛
 
@@ -20,7 +20,7 @@ description: "North American Chinese Band - Playing for fun, love, and the peopl
 
 # The Boovan
 
-Welcome to The Boovan (布宛社), a North American Chinese band based in North Texas. We're a group of Chinese American musicians who play for fun, love, and the people we care about.
+Welcome to The Boovan (不晚), a North American Chinese band based in North Texas. We're a group of Chinese American musicians who play for fun, love, and the people we care about.
 
 ## What We Do
 
