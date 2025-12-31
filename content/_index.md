@@ -7,6 +7,8 @@ description: "North American Chinese Band - Playing for fun, love, and the peopl
 **布宛社 · Never Too Late**
 {{< /lead >}}
 
+![The Boovan Band](/images/band2025.jpg "The Boovan - 布宛社")
+
 ## 致布宛
 
 *在音乐里我们牵手复活了的青春*  

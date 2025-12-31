@@ -10,6 +10,8 @@ showTableOfContents: true
 A North Texas Chinese American band playing for fun, love, and community.
 {{< /lead >}}
 
+![The Boovan Band](/images/band2025.jpg "The Boovan - 布宛社")
+
 ## 致布宛
 
 *在音乐里我们牵手复活了的青春*  

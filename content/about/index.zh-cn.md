@@ -10,6 +10,8 @@ showTableOfContents: true
 北德州华裔美国人乐队，为乐趣、爱和社区而演奏。
 {{< /lead >}}
 
+![布宛社乐队](/images/band2025.jpg "布宛社 - The Boovan")
+
 ## 致布宛
 
 *在音乐里我们牵手复活了的青春*  
