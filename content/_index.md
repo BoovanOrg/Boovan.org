@@ -7,6 +7,15 @@ description: "North American Chinese Band - Playing for fun, love, and the peopl
 **布宛社 · Never Too Late**
 {{< /lead >}}
 
+## 致布宛
+
+*在音乐里我们牵手复活了的青春*  
+*音乐里我们凝望流转和逝去*  
+*音乐里我们飞翔在一首歌那么长的*  
+*永恒*
+
+---
+
 # The Boovan
 
 Welcome to The Boovan (布宛社), a North American Chinese band based in North Texas. We're a group of Chinese American musicians who play for fun, love, and the people we care about.

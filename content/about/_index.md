@@ -10,6 +10,15 @@ showTableOfContents: true
 A North Texas Chinese American band playing for fun, love, and community.
 {{< /lead >}}
 
+## 致布宛
+
+*在音乐里我们牵手复活了的青春*  
+*音乐里我们凝望流转和逝去*  
+*音乐里我们飞翔在一首歌那么长的*  
+*永恒*
+
+---
+
 ## Our Story
 
 The Boovan (布宛社) was born from a simple idea: it's never too late to make music that matters. We're a group of Chinese American musicians based in the North Texas area who came together to share our love of music with our community.
