@@ -11,7 +11,7 @@ CADDYFILE = Caddyfile
 # ---------------------------
 
 hugo:
-	hugo --minify
+	docker run --rm -v $(PWD):/src hugomods/hugo:0.141.0 --minify
 
 # ---------------------------
 # Build Docker image
