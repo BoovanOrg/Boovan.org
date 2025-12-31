@@ -1,0 +1,14 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "The Boovan"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "/images/band2025.jpg"
+  description = "North American Chinese Band - Playing for fun, love, and the people we care about"
+  # mainSections = ["news", "music"]
+  # copyright = "© 2025 The Boovan. Never Too Late."

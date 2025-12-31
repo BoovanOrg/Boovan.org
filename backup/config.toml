@@ -1,0 +1,4 @@
+baseURL = "https://boovan.org/"
+languageCode = "en-us"
+title = "The Boovan"
+disableKinds = ["taxonomy", "term", "section", "RSS", "sitemap", "robotsTXT"]
