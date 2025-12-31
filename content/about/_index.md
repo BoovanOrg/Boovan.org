@@ -1,10 +1,8 @@
 ---
-title: "About The Boovan"
+title: "About The Boovan (布宛社)"
 description: "Learn about The Boovan band, our members, and our story"
 showTableOfContents: true
 ---
-
-# About The Boovan (布宛社)
 
 {{< lead >}}
 A North Texas Chinese American band playing for fun, love, and community.

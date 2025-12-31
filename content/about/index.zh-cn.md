@@ -1,10 +1,8 @@
 ---
-title: "关于布宛社"
+title: "关于布宛社 (The Boovan)"
 description: "了解布宛社乐队、我们的成员和我们的故事"
 showTableOfContents: true
 ---
-
-# 关于布宛社 (The Boovan)
 
 {{< lead >}}
 北德州华裔美国人乐队，为乐趣、爱和社区而演奏。

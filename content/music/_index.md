@@ -4,8 +4,6 @@ description: "Listen to demo songs and performances from The Boovan"
 showTableOfContents: false
 ---
 
-# Our Music
-
 {{< lead >}}
 Listen to our demos, covers, and original songs. It's never too late to make some noise.
 {{< /lead >}}

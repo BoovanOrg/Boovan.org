@@ -1,10 +1,8 @@
 ---
-title: "Contact Us"
+title: "Contact The Boovan"
 description: "Get in touch with The Boovan for bookings, inquiries, and collaborations"
 showTableOfContents: false
 ---
-
-# Contact The Boovan
 
 {{< lead >}}
 We'd love to hear from you! Whether you're interested in booking us for an event, renting equipment, or just want to say hello, reach out to us.

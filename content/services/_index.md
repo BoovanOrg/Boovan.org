@@ -4,8 +4,6 @@ description: "Professional music and sound services for your events"
 showTableOfContents: true
 ---
 
-# Our Services
-
 {{< lead >}}
 Professional music and sound services for your community events, celebrations, and special occasions.
 {{< /lead >}}
