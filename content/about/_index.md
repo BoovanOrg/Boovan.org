@@ -10,7 +10,7 @@ A North Texas Chinese American band playing for fun, love, and community.
 
 ![The Boovan Band](/images/band2025.jpg "The Boovan - 不晚")
 
-## 致布宛
+## 致不晚
 
 *在音乐里我们牵手复活了的青春*  
 *音乐里我们凝望流转和逝去*  
@@ -23,7 +23,7 @@ A North Texas Chinese American band playing for fun, love, and community.
 
 The Boovan (不晚) was born from a simple idea: it's never too late to make music that matters. We're a group of Chinese American musicians based in the North Texas area who came together to share our love of music with our community.
 
-Our name "布宛" (Bù Wǎn) combines the characters for "cloth/spread" and "graceful/content," while "社" means community or association. Together, we represent the graceful community we've built through music.
+Our name "不晚" (Bù Wǎn) means "Never Too Late" – a reminder that it's never too late to pursue your dreams, make music, and share joy with others.
 
 ## Our Mission
 

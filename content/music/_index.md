@@ -8,13 +8,9 @@ showTableOfContents: false
 Listen to our demos, covers, and original songs. It's never too late to make some noise.
 {{< /lead >}}
 
-## Featured Track
+## Latest Practice
 
-### Try to Remember
-
-A beautiful classic that reminds us to cherish memories and embrace the journey.
-
-{{< soundcloud "wei-wang-44/try-to-remember" >}}
+{{< youtube "D0Ypb1WjuPw" >}}
 
 ---
 

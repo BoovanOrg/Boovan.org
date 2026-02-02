@@ -9,7 +9,7 @@ description: "North American Chinese Band - Playing for fun, love, and the peopl
 
 ![The Boovan Band](/images/band2025.jpg "The Boovan - 不晚")
 
-## 致布宛
+## 致不晚
 
 *在音乐里我们牵手复活了的青春*  
 *音乐里我们凝望流转和逝去*  
