@@ -9,6 +9,8 @@ description: "North American Chinese Band - Playing for fun, love, and the peopl
 
 ![The Boovan Band](/images/band2025.jpg "The Boovan - 不晚")
 
+![The Boovan - 2026 Spring Festival](/images/spring_festival_2026.jpg "The Boovan - 2026 Spring Festival")
+
 ## 致不晚
 
 *在音乐里我们牵手复活了的青春*  
