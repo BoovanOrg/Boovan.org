@@ -1,0 +1,37 @@
+# -- Main Menu --
+
+[[main]]
+  name = "关于我们"
+  pageRef = "about"
+  weight = 10
+
+[[main]]
+  name = "音乐"
+  pageRef = "music"
+  weight = 20
+
+[[main]]
+  name = "服务"
+  pageRef = "services"
+  weight = 30
+
+[[main]]
+  name = "动态"
+  pageRef = "news"
+  weight = 40
+
+[[main]]
+  name = "联系我们"
+  pageRef = "contact"
+  weight = 50
+
+# -- Footer Menu --
+[[footer]]
+  name = "关于我们"
+  pageRef = "about"
+  weight = 10
+
+[[footer]]
+  name = "联系我们"
+  pageRef = "contact"
+  weight = 20

@@ -1,160 +1,160 @@
 ---
-title: "Our Services"
-description: "Professional music and sound services for your events"
+title: "我们的服务"
+description: "为您的活动提供专业音乐和音响服务"
 showTableOfContents: true
 ---
 
 {{< lead >}}
-Professional music and sound services for your community events, celebrations, and special occasions.
+为您的社区活动、庆典和特殊场合提供专业音乐和音响服务。
 {{< /lead >}}
 
-## What We Offer
+## 服务项目
 
-### 🎸 Band Performances
+### 🎸 乐队演出
 
-Live music performances for your events:
-- **Weddings & Receptions** - Make your special day memorable with live music
-- **Community Events** - Festivals, celebrations, and cultural gatherings
-- **Private Parties** - Birthdays, anniversaries, and family celebrations
-- **Corporate Events** - Professional entertainment for business functions
+为您的活动提供现场音乐演出：
+- **婚礼** - 用现场音乐让您的特别日子更加难忘
+- **社区活动** - 节庆、庆典和文化活动
+- **私人派对** - 生日、周年纪念和家庭聚会
+- **企业活动** - 商务活动的专业娱乐
 
-Our diverse repertoire includes Chinese classics, American standards, and contemporary favorites in both English and Chinese.
-
----
-
-### 🎵 Sound Equipment Rental
-
-Professional-grade sound equipment for your events:
-- PA Systems & Speakers
-- Microphones (wired and wireless)
-- Mixing Boards
-- Monitors and Stage Equipment
-- Complete sound packages for various venue sizes
-
-Perfect for community events, presentations, parties, and performances.
+我们多元化的曲目包括中文经典、英文经典和中英文当代流行歌曲。
 
 ---
 
-### 🎧 DJ & Sound Services
+### 🎵 音响设备租赁
 
-Professional DJ and sound engineering services:
-- **Event DJ Services** - Music curation and live mixing for your celebration
-- **Sound Engineering** - Professional audio setup and management
-- **Technical Support** - On-site assistance throughout your event
-- **Music Consultation** - Help selecting the perfect playlist for your occasion
+为您的活动提供专业级音响设备：
+- 音响系统和音箱
+- 麦克风（有线和无线）
+- 混音台
+- 监听器和舞台设备
+- 适用于各种场地规模的完整音响套装
 
-We specialize in both Chinese and American music, creating the perfect atmosphere for multicultural events.
-
----
-
-### 🎼 Song Production
-
-Professional music production services:
-- **Original Song Recording** - Bring your musical ideas to life
-- **Cover Songs** - Professional recordings of your favorite songs
-- **Special Occasion Songs** - Custom music for weddings, anniversaries, etc.
-- **Voice Recording** - Vocals for demos, gifts, or special projects
-
-Whether it's a heartfelt gift or a passion project, we'll help you create quality recordings.
+适合社区活动、演讲、派对和演出。
 
 ---
 
-## Why Choose The Boovan?
+### 🎧 DJ和音响服务
+
+专业DJ和音响工程服务：
+- **活动DJ服务** - 为您的庆典精选音乐和现场混音
+- **音响工程** - 专业音频设置和管理
+- **技术支持** - 活动全程现场协助
+- **音乐顾问** - 帮助您为场合选择完美的歌单
+
+我们擅长中英文音乐，为多元文化活动营造完美氛围。
+
+---
+
+### 🎼 歌曲制作
+
+专业音乐制作服务：
+- **原创歌曲录制** - 将您的音乐想法变为现实
+- **翻唱录制** - 专业录制您喜欢的歌曲
+- **特别场合歌曲** - 为婚礼、周年纪念等定制音乐
+- **人声录制** - 用于Demo、礼物或特别项目的人声录制
+
+无论是一份用心的礼物还是一个热爱的项目，我们都会帮您制作高质量的录音。
+
+---
+
+## 为什么选择不晚？
 
 {{< alert "star" >}}
-**Community-Focused**: We understand the needs of the Chinese American community and multicultural events.
+**以社区为中心**：我们了解华裔美国社区和多元文化活动的需求。
 {{< /alert >}}
 
 {{< alert "music" >}}
-**Bilingual Services**: Fluent in both English and Chinese, perfect for multicultural celebrations.
+**双语服务**：中英文流利，完美适合多元文化庆典。
 {{< /alert >}}
 
 {{< alert "heart" >}}
-**Passion-Driven**: We bring genuine enthusiasm and joy to every project and performance.
+**热情驱动**：我们为每一个项目和演出带来真挚的热情和快乐。
 {{< /alert >}}
 
 {{< alert "check" >}}
-**Professional Quality**: Despite being a non-profit band, we maintain professional standards.
+**专业品质**：尽管是非营利乐队，我们保持专业水准。
 {{< /alert >}}
 
 ---
 
-## Pricing
+## 价格
 
-### Live Band
+### 乐队演出
 
-| Package | Price |
-|---------|-------|
-| 1 set (1 hr) | $300 |
-| 2 sets (2 hr) | $500 |
-| 3 sets (3 hr) | $800 |
-| Extra hour | +$200 |
+| 套餐 | 价格 |
+|------|------|
+| 1组演出 (1小时) | $300 |
+| 2组演出 (2小时) | $500 |
+| 3组演出 (3小时) | $800 |
+| 额外时间 | +$200/小时 |
 
-### Audio Services (delivered and setup)
+### 音响服务（送货并安装）
 
-| Service | Price |
-|---------|-------|
-| PA + mics + setup/teardown | $200 |
-| PA + sound engineer (live mixing) | $350 |
-| Add: Music playback during breaks | +$50 |
-| Add: MC/announcements | +$50 |
+| 服务 | 价格 |
+|------|------|
+| 音响 + 麦克风 + 安装/拆卸 | $200 |
+| 音响师 | $40/小时 |
+| 添加：休息时间播放音乐 | +$50 |
+| 添加：主持/报幕 | +$50 |
 
-### PA Rental (customer pickup)
+### 音响设备租赁（自取）
 
-| Package | Price/Day | Deposit |
-|---------|-----------|---------|
-| Basic (speakers + cables) | $75 | $200 |
-| Full (speakers + XR18 mixer + mics) | $125 | $350 |
+| 套装 | 日租价 | 押金 |
+|------|--------|------|
+| 基本套装（音箱 + 线缆）| $75 | $200 |
+| 完整套装（音箱 + XR18混音器 + 麦克风）| $125 | $350 |
 
-Deposit refunded upon return in good condition.
+押金在设备完好归还后退还。
 
-### Recording Services
+### 录音服务
 
-| Service | Price |
-|---------|-------|
-| Live stereo recording | +$100 |
-| Multitrack recording | +$200 |
-| Post-event mix/master | +$150 |
+| 服务 | 价格 |
+|------|------|
+| 现场立体声录音 | +$100 |
+| 多轨录音 | +$200 |
+| 后期混音/母带 | +$150 |
 
-### Bundles
+### 🎉 套餐 — 更优惠！
 
-| Package | Includes | Price |
-|---------|----------|-------|
-| Full Event | 1-set band (1 hr) + PA + sound engineer + music between sets (4 hrs total) | $600 |
-| Audio Only | PA + sound engineer + music playback (4 hrs) | $300 |
+| 套餐 | 包含内容 | 价格 |
+|------|----------|------|
+| 🎸 全套活动 | 1组乐队演出 (1小时) + 音响 + 音响师 + 间歇音乐（共4小时）| ~~$710~~ **$600** |
+| 🎧 纯音响 | 音响 + 音响师 + 音乐播放（4小时）| ~~$410~~ **$300** |
 
-### Additional Fees
+### 附加费用
 
-- Travel beyond 30 miles: $1/mile
-- Extra microphone rental: $15 each
+- 超过30英里的交通费：$1/英里
+- 额外麦克风租赁：$15/个
 
-### Equipment List
+### 设备清单
 
-- Behringer XR18 digital mixer
-- PA speakers
-- Microphones (wired/wireless)
-- All necessary cables
-- Laptop/tablet for mixer control and music playback
-- Recording via Reaper (multitrack capable)
+- Behringer XR18 数字混音器
+- 音响音箱
+- 麦克风（有线/无线）
+- 所有必需线缆
+- 笔记本电脑/平板（用于混音器控制和音乐播放）
+- 通过 Reaper 录音（支持多轨）
 
 {{< button href="/contact/" target="_self" >}}
-Request a Quote
+获取报价
 {{< /button >}}
 
 {{< button href="/about/" target="_self" >}}
-Learn More About Us
+了解更多
 {{< /button >}}
 
 ---
 
-## Booking Process
+## 预约流程
 
-1. **Contact Us** - Fill out our [contact form](/contact/) or reach out directly
-2. **Discuss Details** - We'll talk about your event, needs, and vision
-3. **Custom Quote** - Receive a tailored proposal for your event
-4. **Confirmation** - Book your date and finalize details
-5. **Event Day** - We'll bring professionalism, energy, and great music!
+1. **联系我们** - 填写我们的[联系表单](/contact/)或直接联系
+2. **讨论详情** - 我们会讨论您的活动、需求和期望
+3. **定制报价** - 收到为您的活动量身定制的方案
+4. **确认预约** - 确定日期并敲定细节
+5. **活动当天** - 我们将带来专业、活力和美妙的音乐！
 
 {{< alert "circle-info" >}}
-**Note**: As a community-focused non-profit band, we prioritize events within our local Chinese American community and area. Contact us to discuss your specific needs!
+**注意**：作为以社区为中心的非营利乐队，我们优先服务本地华裔美国社区和周边地区的活动。请联系我们讨论您的具体需求！
 {{< /alert >}}

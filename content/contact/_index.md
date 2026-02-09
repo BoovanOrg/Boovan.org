@@ -1,126 +1,135 @@
 ---
-title: "Contact The Boovan"
-description: "Get in touch with The Boovan for bookings, inquiries, and collaborations"
+title: "联系不晚"
+description: "联系不晚乐队进行预约、咨询和合作"
 showTableOfContents: false
 ---
 
 {{< lead >}}
-We'd love to hear from you! Whether you're interested in booking us for an event, renting equipment, or just want to say hello, reach out to us.
+我们期待您的来信！无论是预约演出、租赁设备，还是想打个招呼，都欢迎联系我们。
 {{< /lead >}}
 
-## Service Booking & Inquiries
+## 服务预约与咨询
 
-Fill out the form below and we'll get back to you within 1-2 business days. Select your services to see estimated pricing.
+请填写以下表格，我们将在1-2个工作日内回复您。选择服务可查看预估价格。
 
 <form id="booking-form" action="https://formspree.io/f/mykzgodb" method="POST">
 <input type="hidden" name="selected-services" id="selected-services-input">
 <input type="hidden" name="estimated-total" id="estimated-total-input">
 <div class="bf-form-group">
-<label class="bf-label">Name *</label>
+<label class="bf-label">姓名 *</label>
 <input type="text" name="name" required class="bf-input">
 </div>
 <div class="bf-form-group">
-<label class="bf-label">Email *</label>
+<label class="bf-label">邮箱 *</label>
 <input type="email" name="email" required class="bf-input">
 </div>
 <div class="bf-form-group">
-<label class="bf-label">Phone</label>
+<label class="bf-label">电话</label>
 <input type="tel" name="phone" class="bf-input">
 </div>
 <div class="bf-form-group">
-<label class="bf-label">Event Date (if applicable)</label>
+<label class="bf-label">活动日期（如适用）</label>
 <input type="date" name="event-date" class="bf-input">
 </div>
 <div class="bf-form-group">
-<label class="bf-label">Service Category *</label>
+<label class="bf-label">服务类别 *</label>
 <select id="service-category" name="service-category" required class="bf-input">
-<option value="">Please select a service...</option>
-<option value="live-band">Live Band Performance</option>
-<option value="audio-services">Audio Services (delivered &amp; setup)</option>
-<option value="pa-rental">PA Rental (customer pickup)</option>
-<option value="bundles">Bundle Packages</option>
-<option value="other">Other / General Inquiry</option>
+<option value="">请选择服务...</option>
+<option value="live-band">乐队现场演出</option>
+<option value="audio-services">音响服务（送货并安装）</option>
+<option value="pa-rental">音响设备租赁（自取）</option>
+<option value="bundles">🎉 套餐 — 更优惠！</option>
+<option value="other">其他 / 一般咨询</option>
 </select>
 </div>
 <div id="panel-live-band" class="bf-panel" style="display:none;">
-<div class="bf-panel-header">Live Band Performance</div>
+<div class="bf-panel-header">乐队现场演出</div>
 <div class="bf-option-group">
-<label class="bf-option"><input type="radio" name="band-package" value="1set"> 1 set (1 hr) — $300</label>
-<label class="bf-option"><input type="radio" name="band-package" value="2sets"> 2 sets (2 hr) — $500</label>
-<label class="bf-option"><input type="radio" name="band-package" value="3sets"> 3 sets (3 hr) — $800</label>
+<label class="bf-option"><input type="radio" name="band-package" value="1set"> 1组演出 (1小时) — $300</label>
+<label class="bf-option"><input type="radio" name="band-package" value="2sets"> 2组演出 (2小时) — $500</label>
+<label class="bf-option"><input type="radio" name="band-package" value="3sets"> 3组演出 (3小时) — $800</label>
 </div>
 <div class="bf-extra">
-<label class="bf-label">Extra hours (+$200/hr)</label>
+<label class="bf-label">额外时间 (+$200/小时)</label>
 <input type="number" id="band-extra-hours" min="0" max="10" value="0" class="bf-input-sm">
 </div>
 <div class="bf-addon-group">
-<p class="bf-note" style="font-style:normal; color:rgba(var(--color-primary-300),1);">⚠ Band performance does not include PA or sound services. If the venue does not provide these, please add them below:</p>
-<label class="bf-option"><input type="checkbox" name="band-audio" value="pa-engineer"> Add: PA + sound engineer (live mixing) — +$350</label>
-<label class="bf-option"><input type="checkbox" name="band-audio" value="music-playback"> Add: Music playback during breaks — +$50</label>
-<label class="bf-option"><input type="checkbox" name="band-audio" value="mc"> Add: MC/announcements — +$50</label>
+<p class="bf-note" style="font-style:normal; color:rgba(var(--color-primary-300),1);">⚠ 乐队演出不包含音响服务。如果场地不提供，请在下方添加：</p>
+<label class="bf-option"><input type="checkbox" name="band-audio" value="pa-basic"> 添加：音响 + 麦克风 + 安装/拆卸 — +$200</label>
+<label class="bf-option"><input type="checkbox" name="band-audio" value="sound-engineer"> 添加：音响师 — +$40/小时</label>
+<div class="bf-extra" id="band-engineer-hours-wrap" style="display:none;margin-left:1.5rem;">
+<label class="bf-label">音响师时长</label>
+<input type="number" id="band-engineer-hours" min="1" max="20" value="1" class="bf-input-sm">
+</div>
+<label class="bf-option"><input type="checkbox" name="band-audio" value="music-playback"> 添加：休息时间播放音乐 — +$50</label>
+<label class="bf-option"><input type="checkbox" name="band-audio" value="mc"> 添加：主持/报幕 — +$50</label>
 </div>
 </div>
 <div id="panel-audio-services" class="bf-panel" style="display:none;">
-<div class="bf-panel-header">Audio Services</div>
+<div class="bf-panel-header">音响服务</div>
 <div class="bf-option-group">
-<label class="bf-option"><input type="radio" name="audio-base" value="pa-basic"> PA + mics + setup/teardown — $200</label>
-<label class="bf-option"><input type="radio" name="audio-base" value="pa-engineer"> PA + sound engineer (live mixing) — $350</label>
+<label class="bf-option"><input type="radio" name="audio-base" value="pa-basic"> 音响 + 麦克风 + 安装/拆卸 — $200</label>
+<label class="bf-option"><input type="checkbox" name="audio-addon" value="sound-engineer"> 添加：音响师 — +$40/小时</label>
+<div class="bf-extra" id="audio-engineer-hours-wrap" style="display:none;margin-left:1.5rem;">
+<label class="bf-label">音响师时长</label>
+<input type="number" id="audio-engineer-hours" min="1" max="20" value="1" class="bf-input-sm">
+</div>
 </div>
 <div class="bf-addon-group">
-<label class="bf-option"><input type="checkbox" name="audio-addon" value="music-playback"> Add: Music playback during breaks — +$50</label>
-<label class="bf-option"><input type="checkbox" name="audio-addon" value="mc"> Add: MC/announcements — +$50</label>
+<label class="bf-option"><input type="checkbox" name="audio-addon" value="music-playback"> 添加：休息时间播放音乐 — +$50</label>
+<label class="bf-option"><input type="checkbox" name="audio-addon" value="mc"> 添加：主持/报幕 — +$50</label>
 </div>
 </div>
 <div id="panel-pa-rental" class="bf-panel" style="display:none;">
-<div class="bf-panel-header">PA Rental (customer pickup)</div>
+<div class="bf-panel-header">音响设备租赁（自取）</div>
 <div class="bf-option-group">
-<label class="bf-option"><input type="radio" name="pa-package" value="basic"> Basic (speakers + cables) — $75/day (deposit: $200)</label>
-<label class="bf-option"><input type="radio" name="pa-package" value="full"> Full (speakers + XR18 mixer + mics) — $125/day (deposit: $350)</label>
+<label class="bf-option"><input type="radio" name="pa-package" value="basic"> 基本套装（音箱 + 线缆）— $75/天（押金：$200）</label>
+<label class="bf-option"><input type="radio" name="pa-package" value="full"> 完整套装（音箱 + XR18混音器 + 麦克风）— $125/天（押金：$350）</label>
 </div>
 <div class="bf-extra">
-<label class="bf-label">Number of rental days</label>
+<label class="bf-label">租赁天数</label>
 <input type="number" id="pa-days" min="1" max="30" value="1" class="bf-input-sm">
 </div>
-<p class="bf-note">Deposit refunded upon return in good condition.</p>
+<p class="bf-note">押金在设备完好归还后退还。</p>
 </div>
 <div id="panel-bundles" class="bf-panel" style="display:none;">
-<div class="bf-panel-header">Bundle Packages</div>
+<div class="bf-panel-header">🎉 套餐 — 更优惠！</div>
 <div class="bf-option-group">
-<label class="bf-option"><input type="radio" name="bundle-package" value="full-event"> Full Event — 1-set band (1 hr) + PA + sound engineer + music between sets (4 hrs total) — $600</label>
-<label class="bf-option"><input type="radio" name="bundle-package" value="audio-only"> Audio Only — PA + sound engineer + music playback (4 hrs) — $300</label>
+<label class="bf-option"><input type="radio" name="bundle-package" value="full-event"> 🎸 全套活动 — 1组乐队演出 (1小时) + 音响 + 音响师 + 间歇音乐（共4小时）— <s>$710</s> <strong>$600</strong></label>
+<label class="bf-option"><input type="radio" name="bundle-package" value="audio-only"> 🎧 纯音响 — 音响 + 音响师 + 音乐播放（4小时）— <s>$410</s> <strong>$300</strong></label>
 </div>
 </div>
 <div id="panel-other" class="bf-panel" style="display:none;">
-<p class="bf-note">Please describe your needs in the message below.</p>
+<p class="bf-note">请在下方留言中描述您的需求。</p>
 </div>
 <div id="addons-section" class="bf-panel" style="display:none;">
-<div class="bf-panel-header">Additional Services</div>
-<p class="bf-subheader">Recording Services</p>
-<label class="bf-option"><input type="checkbox" name="recording" value="stereo"> Live stereo recording — +$100</label>
-<label class="bf-option"><input type="checkbox" name="recording" value="multitrack"> Multitrack recording — +$200</label>
-<label class="bf-option"><input type="checkbox" name="recording" value="mixmaster"> Post-event mix/master — +$150</label>
-<p class="bf-subheader">Additional Fees</p>
+<div class="bf-panel-header">附加服务</div>
+<p class="bf-subheader">录音服务</p>
+<label class="bf-option"><input type="checkbox" name="recording" value="stereo"> 现场立体声录音 — +$100</label>
+<label class="bf-option"><input type="checkbox" name="recording" value="multitrack"> 多轨录音 — +$200</label>
+<label class="bf-option"><input type="checkbox" name="recording" value="mixmaster"> 后期混音/母带 — +$150</label>
+<p class="bf-subheader">附加费用</p>
 <div class="bf-extra">
-<label class="bf-label">Travel beyond 30 miles ($1/mile)</label>
+<label class="bf-label">超过30英里的交通费（$1/英里）</label>
 <input type="number" id="travel-miles" min="0" max="500" value="0" class="bf-input-sm">
 </div>
 <div class="bf-extra">
-<label class="bf-label">Extra microphone rental ($15 each)</label>
+<label class="bf-label">额外麦克风租赁（$15/个）</label>
 <input type="number" id="extra-mics" min="0" max="20" value="0" class="bf-input-sm">
 </div>
 </div>
 <div id="price-summary" style="display:none;">
-<div class="bf-summary-header">Estimated Price</div>
+<div class="bf-summary-header">预估价格</div>
 <div id="price-line-items"></div>
-<div class="bf-summary-total">Estimated Total: <span id="price-total">$0</span></div>
-<p class="bf-disclaimer">* This is an estimate. Final pricing may vary based on your specific needs.</p>
+<div class="bf-summary-total">预估总计：<span id="price-total">$0</span></div>
+<p class="bf-disclaimer">* 此为预估价格，最终价格可能因具体需求而有所不同。</p>
 </div>
 <div class="bf-form-group">
-<label class="bf-label">Message *</label>
-<textarea name="message" rows="5" required class="bf-input" placeholder="Tell us about your event, needs, or inquiry..."></textarea>
+<label class="bf-label">留言 *</label>
+<textarea name="message" rows="5" required class="bf-input" placeholder="请告诉我们您的活动、需求或咨询..."></textarea>
 </div>
 <div>
-<button type="submit" class="bf-submit">Send Booking Request</button>
+<button type="submit" class="bf-submit">发送预约请求</button>
 </div>
 <div id="form-message" class="bf-msg" style="display:none;"></div>
 </form>
@@ -241,8 +250,9 @@ Fill out the form below and we'll get back to you within 1-2 business days. Sele
   var PRICING = {
     band: { '1set': 300, '2sets': 500, '3sets': 800 },
     bandExtra: 200,
-    bandAudio: { 'pa-engineer': 350, 'music-playback': 50, 'mc': 50 },
-    audio: { 'pa-basic': 200, 'pa-engineer': 350 },
+    bandAudio: { 'pa-basic': 200, 'music-playback': 50, 'mc': 50 },
+    soundEngineerPerHour: 40,
+    audio: { 'pa-basic': 200 },
     audioAddon: { 'music-playback': 50, 'mc': 50 },
     paRental: { 'basic': 75, 'full': 125 },
     bundles: { 'full-event': 600, 'audio-only': 300 },
@@ -252,13 +262,13 @@ Fill out the form below and we'll get back to you within 1-2 business days. Sele
   };
 
   var LABELS = {
-    band: { '1set': '1 set live band performance (1 hr)', '2sets': '2 sets live band performance (2 hr)', '3sets': '3 sets live band performance (3 hr)' },
-    bandAudio: { 'pa-engineer': 'PA + sound engineer (live mixing)', 'music-playback': 'Music playback during breaks', 'mc': 'MC/announcements' },
-    audio: { 'pa-basic': 'PA + mics + setup/teardown', 'pa-engineer': 'PA + sound engineer' },
-    audioAddon: { 'music-playback': 'Music playback during breaks', 'mc': 'MC/announcements' },
-    paRental: { 'basic': 'Basic PA rental', 'full': 'Full PA rental' },
-    bundles: { 'full-event': 'Full Event bundle', 'audio-only': 'Audio Only bundle' },
-    recording: { 'stereo': 'Live stereo recording', 'multitrack': 'Multitrack recording', 'mixmaster': 'Post-event mix/master' }
+    band: { '1set': '1组乐队现场演出 (1小时)', '2sets': '2组乐队现场演出 (2小时)', '3sets': '3组乐队现场演出 (3小时)' },
+    bandAudio: { 'pa-basic': '音响 + 麦克风 + 安装/拆卸', 'music-playback': '休息时间播放音乐', 'mc': '主持/报幕' },
+    audio: { 'pa-basic': '音响 + 麦克风 + 安装/拆卸' },
+    audioAddon: { 'music-playback': '休息时间播放音乐', 'mc': '主持/报幕' },
+    paRental: { 'basic': '基本音响租赁', 'full': '完整音响租赁' },
+    bundles: { 'full-event': '全套活动套餐', 'audio-only': '纯音响套餐' },
+    recording: { 'stereo': '现场立体声录音', 'multitrack': '多轨录音', 'mixmaster': '后期混音/母带' }
   };
 
   var categorySelect = document.getElementById('service-category');
@@ -277,12 +287,9 @@ Fill out the form below and we'll get back to you within 1-2 business days. Sele
 
   function resetSelections() {
     var form = document.getElementById('booking-form');
-    var radios = form.querySelectorAll('.bf-panel input[type="radio"]');
-    radios.forEach(function(r) { r.checked = false; });
-    var checks = form.querySelectorAll('.bf-panel input[type="checkbox"]');
-    checks.forEach(function(c) { c.checked = false; });
-    var nums = form.querySelectorAll('.bf-panel input[type="number"]');
-    nums.forEach(function(n) { n.value = n.id === 'pa-days' ? '1' : '0'; });
+    form.querySelectorAll('.bf-panel input[type="radio"]').forEach(function(r) { r.checked = false; });
+    form.querySelectorAll('.bf-panel input[type="checkbox"]').forEach(function(c) { c.checked = false; });
+    form.querySelectorAll('.bf-panel input[type="number"]').forEach(function(n) { n.value = n.id === 'pa-days' ? '1' : '0'; });
   }
 
   function getRadioValue(name) {
@@ -291,9 +298,8 @@ Fill out the form below and we'll get back to you within 1-2 business days. Sele
   }
 
   function getCheckedValues(name) {
-    var els = document.querySelectorAll('input[name="' + name + '"]:checked');
     var vals = [];
-    els.forEach(function(el) { vals.push(el.value); });
+    document.querySelectorAll('input[name="' + name + '"]:checked').forEach(function(el) { vals.push(el.value); });
     return vals;
   }
 
@@ -316,12 +322,17 @@ Fill out the form below and we'll get back to you within 1-2 business days. Sele
       var extra = getNumValue('band-extra-hours');
       if (extra > 0) {
         var cost = extra * PRICING.bandExtra;
-        items.push({ label: 'Extra hours x' + extra, amount: cost });
+        items.push({ label: '额外时间 x' + extra, amount: cost });
         total += cost;
       }
-      var bandAudio = getCheckedValues('band-audio');
-      bandAudio.forEach(function(a) {
-        if (PRICING.bandAudio[a]) {
+      getCheckedValues('band-audio').forEach(function(a) {
+        if (a === 'sound-engineer') {
+          var hrs = getNumValue('band-engineer-hours');
+          if (hrs < 1) hrs = 1;
+          var cost = hrs * PRICING.soundEngineerPerHour;
+          items.push({ label: '音响师 x' + hrs + '小时', amount: cost });
+          total += cost;
+        } else if (PRICING.bandAudio[a]) {
           items.push({ label: LABELS.bandAudio[a], amount: PRICING.bandAudio[a] });
           total += PRICING.bandAudio[a];
         }
@@ -332,9 +343,14 @@ Fill out the form below and we'll get back to you within 1-2 business days. Sele
         items.push({ label: LABELS.audio[base], amount: PRICING.audio[base] });
         total += PRICING.audio[base];
       }
-      var addons = getCheckedValues('audio-addon');
-      addons.forEach(function(a) {
-        if (PRICING.audioAddon[a]) {
+      getCheckedValues('audio-addon').forEach(function(a) {
+        if (a === 'sound-engineer') {
+          var hrs = getNumValue('audio-engineer-hours');
+          if (hrs < 1) hrs = 1;
+          var cost = hrs * PRICING.soundEngineerPerHour;
+          items.push({ label: '音响师 x' + hrs + '小时', amount: cost });
+          total += cost;
+        } else if (PRICING.audioAddon[a]) {
           items.push({ label: LABELS.audioAddon[a], amount: PRICING.audioAddon[a] });
           total += PRICING.audioAddon[a];
         }
@@ -345,7 +361,7 @@ Fill out the form below and we'll get back to you within 1-2 business days. Sele
       if (days < 1) days = 1;
       if (pa && PRICING.paRental[pa]) {
         var dayCost = PRICING.paRental[pa] * days;
-        items.push({ label: LABELS.paRental[pa] + ' x' + days + ' day' + (days > 1 ? 's' : ''), amount: dayCost });
+        items.push({ label: LABELS.paRental[pa] + ' x' + days + '天', amount: dayCost });
         total += dayCost;
       }
     } else if (cat === 'bundles') {
@@ -356,10 +372,8 @@ Fill out the form below and we'll get back to you within 1-2 business days. Sele
       }
     }
 
-    // Add-ons (recording, travel, mics)
     if (cat && cat !== 'other') {
-      var recs = getCheckedValues('recording');
-      recs.forEach(function(r) {
+      getCheckedValues('recording').forEach(function(r) {
         if (PRICING.recording[r]) {
           items.push({ label: LABELS.recording[r], amount: PRICING.recording[r] });
           total += PRICING.recording[r];
@@ -367,19 +381,16 @@ Fill out the form below and we'll get back to you within 1-2 business days. Sele
       });
       var miles = getNumValue('travel-miles');
       if (miles > 0) {
-        var travelCost = miles * PRICING.travelPerMile;
-        items.push({ label: 'Travel: ' + miles + ' miles', amount: travelCost });
-        total += travelCost;
+        items.push({ label: '交通：' + miles + '英里', amount: miles * PRICING.travelPerMile });
+        total += miles * PRICING.travelPerMile;
       }
       var mics = getNumValue('extra-mics');
       if (mics > 0) {
-        var micCost = mics * PRICING.extraMicEach;
-        items.push({ label: 'Extra mics x' + mics, amount: micCost });
-        total += micCost;
+        items.push({ label: '额外麦克风 x' + mics, amount: mics * PRICING.extraMicEach });
+        total += mics * PRICING.extraMicEach;
       }
     }
 
-    // Render
     if (items.length > 0) {
       var html = '';
       items.forEach(function(item) {
@@ -394,20 +405,33 @@ Fill out the form below and we'll get back to you within 1-2 business days. Sele
   }
 
   categorySelect.addEventListener('change', function() {
-    var val = this.value;
     resetSelections();
-    showPanel(val);
-    addonsSection.style.display = (val && val !== 'other') ? 'block' : 'none';
+    showPanel(this.value);
+    addonsSection.style.display = (this.value && this.value !== 'other') ? 'block' : 'none';
     recalculate();
   });
 
-  // Listen to all inputs inside panels for recalculation
   document.querySelectorAll('.bf-panel input').forEach(function(el) {
     el.addEventListener('change', recalculate);
     el.addEventListener('input', recalculate);
   });
 
-  // Handle form submit via AJAX to stay on page
+  // Show/hide sound engineer hours inputs
+  document.querySelectorAll('input[value="sound-engineer"]').forEach(function(cb) {
+    cb.addEventListener('change', function() {
+      var wrap = this.closest('.bf-panel').querySelector('[id$="engineer-hours-wrap"]');
+      if (wrap) wrap.style.display = this.checked ? 'block' : 'none';
+      recalculate();
+    });
+  });
+  ['band-engineer-hours', 'audio-engineer-hours'].forEach(function(id) {
+    var el = document.getElementById(id);
+    if (el) {
+      el.addEventListener('change', recalculate);
+      el.addEventListener('input', recalculate);
+    }
+  });
+
   document.getElementById('booking-form').addEventListener('submit', function(e) {
     e.preventDefault();
     var form = this;
@@ -420,13 +444,25 @@ Fill out the form below and we'll get back to you within 1-2 business days. Sele
       var extra = getNumValue('band-extra-hours');
       if (extra > 0) lines.push('Extra hours: ' + extra + ' (+$' + (extra * PRICING.bandExtra) + ')');
       getCheckedValues('band-audio').forEach(function(a) {
-        lines.push('Audio add-on: ' + LABELS.bandAudio[a] + ' (+$' + PRICING.bandAudio[a] + ')');
+        if (a === 'sound-engineer') {
+          var hrs = getNumValue('band-engineer-hours');
+          if (hrs < 1) hrs = 1;
+          lines.push('Sound engineer: ' + hrs + ' hrs (+$' + (hrs * PRICING.soundEngineerPerHour) + ')');
+        } else {
+          lines.push('Sound add-on: ' + LABELS.bandAudio[a] + ' (+$' + PRICING.bandAudio[a] + ')');
+        }
       });
     } else if (cat === 'audio-services') {
       var base = getRadioValue('audio-base');
       if (base) lines.push('Base: ' + LABELS.audio[base] + ' ($' + PRICING.audio[base] + ')');
       getCheckedValues('audio-addon').forEach(function(a) {
-        lines.push('Add-on: ' + LABELS.audioAddon[a] + ' (+$' + PRICING.audioAddon[a] + ')');
+        if (a === 'sound-engineer') {
+          var hrs = getNumValue('audio-engineer-hours');
+          if (hrs < 1) hrs = 1;
+          lines.push('Sound engineer: ' + hrs + ' hrs (+$' + (hrs * PRICING.soundEngineerPerHour) + ')');
+        } else {
+          lines.push('Add-on: ' + LABELS.audioAddon[a] + ' (+$' + PRICING.audioAddon[a] + ')');
+        }
       });
     } else if (cat === 'pa-rental') {
       var pa = getRadioValue('pa-package');
@@ -446,12 +482,12 @@ Fill out the form below and we'll get back to you within 1-2 business days. Sele
     if (mics > 0) lines.push('Extra mics: ' + mics + ' (+$' + (mics * PRICING.extraMicEach) + ')');
 
     document.getElementById('selected-services-input').value = lines.join('\n');
-    document.getElementById('estimated-total-input').value = document.getElementById('price-total').textContent;
+    document.getElementById('estimated-total-input').value = priceTotal.textContent;
 
     var submitBtn = form.querySelector('.bf-submit');
     var msgDiv = document.getElementById('form-message');
     submitBtn.disabled = true;
-    submitBtn.textContent = 'Sending...';
+    submitBtn.textContent = '发送中...';
     msgDiv.style.display = 'none';
 
     fetch(form.action, {
@@ -461,7 +497,7 @@ Fill out the form below and we'll get back to you within 1-2 business days. Sele
     }).then(function(response) {
       if (response.ok) {
         msgDiv.className = 'bf-msg bf-msg-success';
-        msgDiv.textContent = 'Thank you! Your booking request has been sent. We\'ll get back to you within 1-2 business days.';
+        msgDiv.textContent = '谢谢！您的预约请求已发送。我们将在1-2个工作日内回复您。';
         msgDiv.style.display = 'block';
         form.reset();
         showPanel('');
@@ -469,16 +505,16 @@ Fill out the form below and we'll get back to you within 1-2 business days. Sele
         priceSummary.style.display = 'none';
       } else {
         msgDiv.className = 'bf-msg bf-msg-error';
-        msgDiv.textContent = 'Something went wrong. Please try again or email us directly.';
+        msgDiv.textContent = '出了点问题，请重试或直接发邮件联系我们。';
         msgDiv.style.display = 'block';
       }
     }).catch(function() {
       msgDiv.className = 'bf-msg bf-msg-error';
-      msgDiv.textContent = 'Something went wrong. Please try again or email us directly.';
+      msgDiv.textContent = '出了点问题，请重试或直接发邮件联系我们。';
       msgDiv.style.display = 'block';
     }).finally(function() {
       submitBtn.disabled = false;
-      submitBtn.textContent = 'Send Booking Request';
+      submitBtn.textContent = '发送预约请求';
     });
   });
 })();
@@ -486,41 +522,45 @@ Fill out the form below and we'll get back to you within 1-2 business days. Sele
 
 ---
 
-## Other Ways to Reach Us
+## 其他联系方式
+
+{{< alert "envelope" >}}
+**直接发邮件**：[info@boovan.org](mailto:info@boovan.org) — 期待您的来信！
+{{< /alert >}}
 
 {{< alert "circle-info" >}}
-**Response Time**: We typically respond within 1-2 business days. For urgent inquiries, please mention "urgent" in your message subject.
+**回复时间**：我们通常在1-2个工作日内回复。如有紧急事项，请在留言中注明"紧急"。
 {{< /alert >}}
 
 {{< alert "calendar" >}}
-**Booking Lead Time**: For events, we recommend reaching out at least 4-6 weeks in advance when possible, though we'll do our best to accommodate shorter timelines.
+**预约提前量**：建议活动前4-6周联系我们预约，但我们也会尽力配合较短的时间安排。
 {{< /alert >}}
 
 ---
 
-## Frequently Asked Questions
+## 常见问题
 
-**Q: What areas do you serve?**  
-A: We're based in North Texas and primarily serve the DFW metroplex and surrounding areas. For events outside this area, please contact us to discuss.
+**问：你们服务哪些地区？**
+答：我们位于北德州，主要服务DFW大都会区及周边地区。如果您的活动在此区域之外，请联系我们讨论。
 
-**Q: Do you travel for events?**  
-A: Yes! We can travel for events. Travel fees may apply for locations outside our primary service area.
+**问：你们可以外出演出吗？**
+答：可以！我们可以为外地活动提供服务。服务区域以外的地点可能会产生交通费。
 
-**Q: What's your cancellation policy?**  
-A: We understand that plans change. Please contact us as soon as possible if you need to reschedule or cancel. We'll work with you to find a solution.
+**问：取消政策是什么？**
+答：我们理解计划可能会变化。如需改期或取消，请尽快联系我们，我们会一起找到解决方案。
 
-**Q: Can you play specific songs or genres?**  
-A: Absolutely! We love taking requests. Let us know your preferences and we'll do our best to accommodate.
+**问：你们可以演奏特定的歌曲或曲风吗？**
+答：当然可以！我们喜欢接受点歌请求。告诉我们您的喜好，我们会尽力配合。
 
-**Q: Are you available for rehearsals or consultations?**  
-A: Yes, we can schedule meetings to discuss your event needs and even do a preview performance if needed.
+**问：你们可以安排排练或咨询吗？**
+答：可以，我们可以安排会面讨论您的活动需求，如有需要还可以进行预演。
 
 ---
 
 {{< button href="/services/" target="_self" >}}
-View Our Services
+查看我们的服务
 {{< /button >}}
 
 {{< button href="/about/" target="_self" >}}
-Learn More About Us
+了解更多
 {{< /button >}}

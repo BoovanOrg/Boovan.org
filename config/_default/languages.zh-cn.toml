@@ -1,0 +1,12 @@
+languageCode = "zh-cn"
+languageName = "中文"
+weight = 1
+title = "不晚乐队"
+
+[params]
+  displayName = "中文"
+  isoCode = "zh-cn"
+  rtl = false
+  dateFormat = "2006年1月2日"
+  logo = "/images/band2025.jpg"
+  description = "北美华人乐队 - 为乐趣、热爱和我们在乎的人而演奏"

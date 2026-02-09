@@ -1,57 +1,57 @@
 ---
-title: "2026 Southlake Spring Festival"
+title: "2026 Southlake 春节演出"
 date: 2026-02-08
 draft: false
-description: "The Boovan performs at the 2026 Southlake Spring Festival"
+description: "不晚乐队在2026年Southlake春节庆典上演出"
 tags: ["performance", "spring festival"]
 ---
 
-The Boovan (不晚) had a wonderful time performing at the 2026 Southlake Spring Festival! It was a beautiful day filled with music, culture, and community. Here are some highlights from the event.
+不晚乐队（The Boovan）在2026年Southlake春节庆典上度过了一段美好的时光！这是一个充满音乐、文化和社区温暖的美好日子。以下是活动的精彩瞬间。
 
-## Video: Bring Up the Wine
+## 视频：将进酒
 
 {{< youtube "GZCGKAC_c50" >}}
 
-## Group Photos
+## 合影
 
-![The Boovan group photo](/images/spring-festival-2026/group1.jpg "The Boovan at 2026 Southlake Spring Festival")
+![不晚乐队合影](/images/spring-festival-2026/group1.jpg "不晚乐队在2026 Southlake春节庆典")
 
-![The Boovan group photo](/images/spring-festival-2026/group2.jpg "The Boovan at 2026 Southlake Spring Festival")
+![不晚乐队合影](/images/spring-festival-2026/group2.jpg "不晚乐队在2026 Southlake春节庆典")
 
-## On Stage
+## 舞台风采
 
-![Wenxin on vocals and guitar](/images/spring-festival-2026/wenxin-1.jpg "Wenxin on vocals and guitar")
+![Wenxin 演唱和吉他](/images/spring-festival-2026/wenxin-1.jpg "Wenxin 演唱和吉他")
 
-![Wenxin and Parvel on stage](/images/spring-festival-2026/Wenxin-Parvel.jpg "Wenxin and Parvel on stage")
+![Wenxin 和 Parvel 在舞台上](/images/spring-festival-2026/Wenxin-Parvel.jpg "Wenxin 和 Parvel 在舞台上")
 
-![Andrew on saxophone](/images/spring-festival-2026/Andrew1.jpg "Andrew on saxophone")
+![Andrew 演奏萨克斯](/images/spring-festival-2026/Andrew1.jpg "Andrew 演奏萨克斯")
 
-![Andrew on saxophone](/images/spring-festival-2026/Andrew2.jpg "Andrew on saxophone")
+![Andrew 演奏萨克斯](/images/spring-festival-2026/Andrew2.jpg "Andrew 演奏萨克斯")
 
-![Joel on drums](/images/spring-festival-2026/Joel.jpg "Joel on drums")
+![Joel 打鼓](/images/spring-festival-2026/Joel.jpg "Joel 打鼓")
 
-![Parvel on vocals](/images/spring-festival-2026/Parvel-1.jpg "Parvel on vocals")
+![Parvel 演唱](/images/spring-festival-2026/Parvel-1.jpg "Parvel 演唱")
 
-![Parvel performing](/images/spring-festival-2026/parvel2.jpg "Parvel performing")
+![Parvel 演出](/images/spring-festival-2026/parvel2.jpg "Parvel 演出")
 
-![Zhen on guitar](/images/spring-festival-2026/Zhen.jpg "Zhen on guitar")
+![Zhen 弹吉他](/images/spring-festival-2026/Zhen.jpg "Zhen 弹吉他")
 
-![Zhen on vocals](/images/spring-festival-2026/Zhen-2.jpg "Zhen on vocals")
+![Zhen 演唱](/images/spring-festival-2026/Zhen-2.jpg "Zhen 演唱")
 
-![Zhen performing](/images/spring-festival-2026/Zhen-3.jpg "Zhen performing")
+![Zhen 演出](/images/spring-festival-2026/Zhen-3.jpg "Zhen 演出")
 
-![Zhen and Parvel on stage](/images/spring-festival-2026/zhen-parvel.jpg "Zhen and Parvel on stage")
+![Zhen 和 Parvel 在舞台上](/images/spring-festival-2026/zhen-parvel.jpg "Zhen 和 Parvel 在舞台上")
 
-![Chunke singing](/images/spring-festival-2026/chunke.jpg "Chunke singing")
+![Chunke 演唱](/images/spring-festival-2026/chunke.jpg "Chunke 演唱")
 
-![Chunke on vocals and violin](/images/spring-festival-2026/chunke-2.jpg "Chunke on vocals and violin")
+![Chunke 演唱和小提琴](/images/spring-festival-2026/chunke-2.jpg "Chunke 演唱和小提琴")
 
-![Xian at the festival](/images/spring-festival-2026/xian.jpg "Xian at the festival")
+![Xian 在庆典上](/images/spring-festival-2026/xian.jpg "Xian 在庆典上")
 
-![Chunke and Wei](/images/spring-festival-2026/Chunke_and_Wei.jpg "Chunke and Wei")
+![Chunke 和 Wei](/images/spring-festival-2026/Chunke_and_Wei.jpg "Chunke 和 Wei")
 
 ---
 
-Thank you to everyone who came out to celebrate the Spring Festival with us! It's always a joy to share our music with the community.
+感谢所有来和我们一起庆祝春节的朋友们！与社区分享我们的音乐总是一件快乐的事。
 
-*Want us to perform at your event? [Get in touch!](/contact/)*
+*想邀请我们在您的活动上演出？[联系我们！](/contact/)*

@@ -1,52 +1,52 @@
 ---
-title: "The Boovan"
-description: "North American Chinese Band - Playing for fun, love, and the people we care about"
+title: "不晚乐队"
+description: "北美华人乐队 - 为乐趣、热爱和我们在乎的人而演奏"
 ---
 
 {{< lead >}}
 **不晚 · Never Too Late**
 {{< /lead >}}
 
-![The Boovan Band](/images/band2025.jpg "The Boovan - 不晚")
+![不晚乐队](/images/band2025.jpg "不晚 - The Boovan")
 
-![The Boovan - 2026 Spring Festival](/images/spring_festival_2026.jpg "The Boovan - 2026 Spring Festival")
+![不晚 - 2026 春节演出](/images/spring_festival_2026.jpg "不晚 - 2026 春节演出")
 
 ## 致不晚
 
-*在音乐里我们牵手复活了的青春*  
-*音乐里我们凝望流转和逝去*  
-*音乐里我们飞翔在一首歌那么长的*  
+*在音乐里我们牵手复活了的青春*
+*音乐里我们凝望流转和逝去*
+*音乐里我们飞翔在一首歌那么长的*
 *永恒*
 
 ---
 
-# The Boovan
+# 不晚乐队
 
-Welcome to The Boovan (不晚), a North American Chinese band based in North Texas. We're a group of Chinese American musicians who play for fun, love, and the people we care about.
+欢迎来到不晚（The Boovan），一支扎根于北德州的北美华人乐队。我们是一群热爱音乐的华裔美国音乐人，为乐趣、热爱和我们在乎的人而演奏。
 
-## What We Do
+## 我们做什么
 
-We're not just about making music – we're about bringing joy to our community through:
+我们不仅仅是做音乐——我们通过音乐为社区带来欢乐：
 
-- **Live Performances** - Band performances for events, parties, and celebrations
-- **Demo Music** - Original songs and covers that speak to our hearts
-- **Sound Services** - Professional DJ and sound equipment services
-- **Music Production** - Helping others bring their musical visions to life
+- **现场演出** - 为活动、派对和庆典表演
+- **原创音乐** - 发自内心的原创歌曲和翻唱
+- **音响服务** - 专业DJ和音响设备服务
+- **音乐制作** - 帮助他人实现音乐梦想
 
-## Our Philosophy
+## 我们的理念
 
-**Never Too Late** - It's never too late to pursue your passions, to make music, to bring people together, and to celebrate life with the people you love.
+**永远不晚** - 追求热爱、创作音乐、凝聚人心、与挚爱的人一起庆祝生活，永远不会太晚。
 
 ---
 
 {{< button href="/about/" target="_self" >}}
-Learn More About Us
+了解更多
 {{< /button >}}
 
 {{< button href="/music/" target="_self" >}}
-Listen to Our Music
+聆听音乐
 {{< /button >}}
 
 {{< button href="/contact/" target="_self" >}}
-Get in Touch
+联系我们
 {{< /button >}}

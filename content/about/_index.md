@@ -1,14 +1,14 @@
 ---
-title: "About The Boovan (不晚)"
-description: "Learn about The Boovan band, our members, and our story"
+title: "关于不晚 (The Boovan)"
+description: "了解不晚乐队、我们的成员和我们的故事"
 showTableOfContents: true
 ---
 
 {{< lead >}}
-A North Texas Chinese American band playing for fun, love, and community.
+北德州华裔美国人乐队，为乐趣、爱和社区而演奏。
 {{< /lead >}}
 
-![The Boovan Band](/images/band2025.jpg "The Boovan - 不晚")
+![不晚乐队](/images/band2025.jpg "不晚 - The Boovan")
 
 ## 致不晚
 
@@ -19,47 +19,47 @@ A North Texas Chinese American band playing for fun, love, and community.
 
 ---
 
-## Our Story
+## 我们的故事
 
-The Boovan (不晚) was born from a simple idea: it's never too late to make music that matters. We're a group of Chinese American musicians based in the North Texas area who came together to share our love of music with our community.
+不晚（The Boovan）源于一个简单的想法：做有意义的音乐永远不会太晚。我们是一群位于北德州地区的华裔美国音乐人，聚在一起与我们的社区分享对音乐的热爱。
 
-Our name "不晚" (Bù Wǎn) means "Never Too Late" – a reminder that it's never too late to pursue your dreams, make music, and share joy with others.
+我们的名字"不晚"意为"Never Too Late"——提醒我们追求梦想、创作音乐、与他人分享快乐，永远不会太晚。
 
-## Our Mission
+## 我们的使命
 
-We believe music has the power to:
-- Bring people together across generations and cultures
-- Create lasting memories at life's important moments
-- Express emotions and stories that words alone cannot capture
-- Build and strengthen our Chinese American community
+我们相信音乐具有以下力量：
+- 跨越世代和文化，将人们聚集在一起
+- 在人生重要时刻创造持久的回忆
+- 表达单靠语言无法捕捉的情感和故事
+- 建立和加强我们的华裔美国社区
 
-Whether we're performing at a wedding, a community celebration, or producing a heartfelt song, our goal is always the same: to spread joy and connection through music.
+无论我们是在婚礼、社区庆典上表演，还是制作一首感人的歌曲，我们的目标始终如一：通过音乐传播欢乐和连接。
 
-## What Makes Us Different
+## 我们的与众不同之处
 
-- **Community-Focused**: We're a non-profit band that plays primarily for our friends, family, and local Chinese American community
-- **Bilingual & Bicultural**: We celebrate both our Chinese heritage and American experiences through our music
-- **For the Love of It**: While we offer professional services, our primary motivation is the joy of making music together
-- **Never Too Late**: We prove that it's never too late to pursue your passions and share your talents
+- **以社区为中心**：我们是一个非营利乐队，主要为我们的朋友、家人和当地华裔美国社区演奏
+- **双语双文化**：我们通过音乐庆祝我们的中华传统和美国经历
+- **为爱而做**：虽然我们提供专业服务，但我们的主要动力是一起制作音乐的快乐
+- **永远不会太晚**：我们证明追求激情和分享才华永远不会太晚
 
-## Our Values
+## 我们的价值观
 
-1. **Joy First**: Music should be fun for both performers and listeners
-2. **Community Connection**: We prioritize serving our local community
-3. **Cultural Pride**: We celebrate our Chinese American identity through our work
-4. **Quality & Passion**: We approach every performance and project with dedication
-5. **Accessibility**: We believe great music and professional services should be available to everyone
+1. **快乐第一**：音乐对表演者和听众来说都应该是有趣的
+2. **社区连接**：我们优先服务本地社区
+3. **文化自豪**：我们通过工作庆祝我们的华裔美国身份
+4. **质量与激情**：我们以奉献精神对待每一场演出和项目
+5. **可及性**：我们相信每个人都应该能够享受优质音乐和专业服务
 
 ---
 
 {{< button href="/music/" target="_self" >}}
-Listen to Our Music
+聆听我们的音乐
 {{< /button >}}
 
 {{< button href="/services/" target="_self" >}}
-See Our Services
+查看我们的服务
 {{< /button >}}
 
 {{< button href="/contact/" target="_self" >}}
-Contact Us
+联系我们
 {{< /button >}}

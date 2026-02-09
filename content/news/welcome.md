@@ -1,36 +1,36 @@
 ---
-title: "Welcome to The Boovan Website!"
+title: "欢迎来到不晚乐队网站！"
 date: 2025-01-01
 draft: false
-description: "Introducing our new website and what's coming next"
+description: "介绍我们的新网站和未来计划"
 tags: ["announcement", "website"]
 ---
 
-# Welcome to The Boovan Website!
+# 欢迎来到不晚乐队网站！
 
-We're excited to launch our new website! This is your hub for everything related to The Boovan - from our music to our services to upcoming events.
+我们很高兴推出新网站！这里是关于不晚乐队一切的集合地——从我们的音乐到服务，再到即将举办的活动。
 
-## What You'll Find Here
+## 您将在这里找到
 
-- **Our Music**: Listen to our demo songs and recordings
-- **Our Services**: Learn about our band performances, equipment rental, DJ services, and music production
-- **About Us**: Get to know the band and our story
-- **News & Updates**: Stay informed about our latest activities
+- **我们的音乐**：聆听我们的歌曲和录音
+- **我们的服务**：了解我们的乐队演出、设备租赁、DJ服务和音乐制作
+- **关于我们**：认识乐队，了解我们的故事
+- **动态**：了解我们的最新活动
 
-## What's Next?
+## 下一步计划
 
-We're working on:
-- Adding more demo songs and recordings
-- Scheduling upcoming performances
-- Building our community presence
-- Creating new original music
+我们正在：
+- 添加更多歌曲和录音
+- 安排即将到来的演出
+- 建立我们的社区影响力
+- 创作新的原创音乐
 
-## Stay Connected
+## 保持联系
 
-This is just the beginning! We'll be posting regular updates about our music, performances, and community events. 
+这只是开始！我们将定期发布关于音乐、演出和社区活动的更新。
 
-**Never Too Late** to start something new - and this website is our way of connecting with you and our community.
+**永远不晚** - 开始新事物永远不会太晚——这个网站就是我们与您和社区连接的方式。
 
 ---
 
-*Have questions or want to work with us? [Get in touch!](/contact/)*
+*有问题或想与我们合作？[联系我们！](/contact/)*

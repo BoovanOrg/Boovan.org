@@ -1,17 +1,17 @@
 ---
-title: "News & Updates"
-description: "Latest news, updates, and announcements from The Boovan"
+title: "动态"
+description: "不晚乐队的最新消息、更新和公告"
 showTableOfContents: false
 ---
 
 {{< lead >}}
-Stay updated with the latest from The Boovan - performances, new music, and community events.
+关注不晚的最新动态 - 演出、新音乐和社区活动。
 {{< /lead >}}
 
-Check back regularly for updates about our band, upcoming performances, new music releases, and community events. We typically post updates every couple of weeks.
+请持续关注我们的乐队动态、即将到来的演出、新音乐发布和社区活动。我们通常每几周发布更新。
 
 ---
 
 {{< alert "music" >}}
-**Want to stay in the loop?** [Contact us](/contact/) to join our mailing list for event announcements and updates!
+**想及时了解最新动态？**[联系我们](/contact/)加入我们的邮件列表，获取活动公告和更新！
 {{< /alert >}}
