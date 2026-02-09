@@ -79,9 +79,63 @@ Whether it's a heartfelt gift or a passion project, we'll help you create qualit
 
 ---
 
-## Pricing & Availability
+## Pricing
 
-We offer flexible, community-friendly pricing. Each event is unique, so we'll work with you to create a package that fits your needs and budget.
+### Live Band
+
+| Package | Price |
+|---------|-------|
+| 1 set (1 hr) | $300 |
+| 2 sets (2 hr) | $500 |
+| 3 sets (3 hr) | $800 |
+| Extra hour | +$200 |
+
+### Audio Services (delivered and setup)
+
+| Service | Price |
+|---------|-------|
+| PA + mics + setup/teardown | $200 |
+| PA + sound engineer (live mixing) | $350 |
+| Add: Music playback during breaks | +$50 |
+| Add: MC/announcements | +$50 |
+
+### PA Rental (customer pickup)
+
+| Package | Price/Day | Deposit |
+|---------|-----------|---------|
+| Basic (speakers + cables) | $75 | $200 |
+| Full (speakers + XR18 mixer + mics) | $125 | $350 |
+
+Deposit refunded upon return in good condition.
+
+### Recording Services
+
+| Service | Price |
+|---------|-------|
+| Live stereo recording | +$100 |
+| Multitrack recording | +$200 |
+| Post-event mix/master | +$150 |
+
+### Bundles
+
+| Package | Includes | Price |
+|---------|----------|-------|
+| Full Event | 1-set band (1 hr) + PA + sound engineer + music between sets (4 hrs total) | $600 |
+| Audio Only | PA + sound engineer + music playback (4 hrs) | $300 |
+
+### Additional Fees
+
+- Travel beyond 30 miles: $1/mile
+- Extra microphone rental: $15 each
+
+### Equipment List
+
+- Behringer XR18 digital mixer
+- PA speakers
+- Microphones (wired/wireless)
+- All necessary cables
+- Laptop/tablet for mixer control and music playback
+- Recording via Reaper (multitrack capable)
 
 {{< button href="/contact/" target="_self" >}}
 Request a Quote
