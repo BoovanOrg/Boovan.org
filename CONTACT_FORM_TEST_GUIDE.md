@@ -241,7 +241,7 @@ Test checklist:
 
 **To Update:**
 ```bash
-cd /home/wwang/workspace/boovan.org
+cd /path/to/boovan.org
 nano content/contact/_index.md
 # Edit line 17
 make deploy

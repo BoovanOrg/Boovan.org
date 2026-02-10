@@ -42,7 +42,7 @@ All core implementation is complete! The website is ready for deployment with th
 
 ### 1. Push to GitHub
 ```bash
-cd /home/wwang/workspace/boovan.org
+cd /path/to/boovan.org
 git push origin main
 ```
 
