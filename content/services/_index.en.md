@@ -77,6 +77,10 @@ Whether it's a heartfelt gift or a passion project, we'll help you create qualit
 **Professional Quality**: Despite being a non-profit band, we maintain professional standards.
 {{< /alert >}}
 
+{{< alert "heart" >}}
+**No Fees, Just Music**: We are not targeting to make money. We appreciate donations to help cover our operation costs (equipment maintenance, transportation, etc.).
+{{< /alert >}}
+
 ---
 
 {{< button href="/contact/" target="_self" >}}

@@ -77,6 +77,10 @@ showTableOfContents: true
 **专业品质**：尽管是非营利乐队，我们保持专业水准。
 {{< /alert >}}
 
+{{< alert "heart" >}}
+**不以盈利为目的**：我们不以赚钱为目标，但感谢您的捐赠以帮助我们覆盖运营成本（设备维护、交通等）。
+{{< /alert >}}
+
 ---
 
 {{< button href="/contact/" target="_self" >}}
