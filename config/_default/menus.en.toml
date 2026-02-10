@@ -12,10 +12,6 @@
   pageRef = "music"
   weight = 20
 
-[[main]]
-  name = "Services"
-  pageRef = "services"
-  weight = 30
 
 [[main]]
   name = "News"

@@ -148,10 +148,6 @@ showTableOfContents: false
 
 ---
 
-{{< button href="/services/" target="_self" >}}
-查看我们的服务
-{{< /button >}}
-
 {{< button href="/about/" target="_self" >}}
 了解更多
 {{< /button >}}

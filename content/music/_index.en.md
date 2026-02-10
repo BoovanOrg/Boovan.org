@@ -37,10 +37,6 @@ Want to hear a specific song or have a special request? [Contact us](/contact/) 
 
 ---
 
-{{< button href="/services/" target="_self" >}}
-Book Us for Your Event
-{{< /button >}}
-
 {{< button href="/contact/" target="_self" >}}
 Get in Touch
 {{< /button >}}

@@ -37,10 +37,6 @@ showTableOfContents: false
 
 ---
 
-{{< button href="/services/" target="_self" >}}
-预约演出
-{{< /button >}}
-
 {{< button href="/contact/" target="_self" >}}
 联系我们
 {{< /button >}}

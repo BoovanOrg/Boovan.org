@@ -10,10 +10,6 @@
   pageRef = "music"
   weight = 20
 
-[[main]]
-  name = "服务"
-  pageRef = "services"
-  weight = 30
 
 [[main]]
   name = "动态"

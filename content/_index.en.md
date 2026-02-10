@@ -28,9 +28,8 @@ Welcome to The Boovan (不晚), a North American Chinese band based in North Tex
 
 We're not just about making music – we're about bringing joy to our community through:
 
-- **Live Performances** - Band performances for events, parties, and celebrations
-- **Demo Music** - Original songs and covers that speak to our hearts
-- **Sound Services** - Professional DJ and sound equipment services
+- **Live Performances** - Band performances for community events and celebrations
+- **Original Music** - Original songs and covers that speak to our hearts
 - **Music Production** - Helping others bring their musical visions to life
 
 ## Our Philosophy

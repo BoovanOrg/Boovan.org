@@ -148,10 +148,6 @@ A: Yes, we can schedule meetings to discuss your event needs and even do a previ
 
 ---
 
-{{< button href="/services/" target="_self" >}}
-View Our Services
-{{< /button >}}
-
 {{< button href="/about/" target="_self" >}}
 Learn More About Us
 {{< /button >}}
