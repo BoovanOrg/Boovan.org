@@ -1,22 +1,22 @@
 ---
 title: "Our Services"
-description: "Professional music and sound services for your events"
+description: "Music and sound services for non-profit community events"
 showTableOfContents: true
 ---
 
 {{< lead >}}
-Professional music and sound services for your community events, celebrations, and special occasions.
+We provide music and sound services exclusively for non-profit community events, cultural celebrations, and charitable occasions.
 {{< /lead >}}
 
 ## What We Offer
 
 ### 🎸 Band Performances
 
-Live music performances for your events:
-- **Weddings & Receptions** - Make your special day memorable with live music
-- **Community Events** - Festivals, celebrations, and cultural gatherings
-- **Private Parties** - Birthdays, anniversaries, and family celebrations
-- **Corporate Events** - Professional entertainment for business functions
+Live music performances for non-profit community events:
+- **Community Festivals** - Cultural celebrations, holiday festivals, and public gatherings
+- **Charity Events** - Fundraisers, benefit concerts, and charitable occasions
+- **Cultural Events** - Chinese New Year, Mid-Autumn Festival, and other cultural celebrations
+- **Community Gatherings** - Church events, school functions, and neighborhood celebrations
 
 Our diverse repertoire includes Chinese classics, American standards, and contemporary favorites in both English and Chinese.
 
@@ -31,7 +31,7 @@ Professional-grade sound equipment for your events:
 - Monitors and Stage Equipment
 - Complete sound packages for various venue sizes
 
-Perfect for community events, presentations, parties, and performances.
+Perfect for community events, presentations, and non-profit performances.
 
 ---
 
@@ -98,5 +98,5 @@ Learn More About Us
 5. **Event Day** - We'll bring professionalism, energy, and great music!
 
 {{< alert "circle-info" >}}
-**Note**: As a community-focused non-profit band, we prioritize events within our local Chinese American community and area. Contact us to discuss your specific needs!
+**Note**: As a non-profit band, we only serve non-profit community events. We do not accept private or commercial bookings. Contact us to discuss your community event!
 {{< /alert >}}
