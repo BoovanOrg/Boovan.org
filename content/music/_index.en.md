@@ -26,7 +26,7 @@ We're currently working on more recordings and will be adding them here soon. Ou
 - **Modern Covers** - Contemporary songs reimagined
 
 {{< alert "circle-info" >}}
-Want to hear a specific song or have a special request? [Contact us](/contact/) and let us know!
+Want to hear a specific song or have a special request? Email us at [info@boovan.org](mailto:info@boovan.org)!
 {{< /alert >}}
 
 ---
@@ -37,6 +37,6 @@ Want to hear a specific song or have a special request? [Contact us](/contact/) 
 
 ---
 
-{{< button href="/contact/" target="_self" >}}
+{{< button href="mailto:info@boovan.org" >}}
 Get in Touch
 {{< /button >}}

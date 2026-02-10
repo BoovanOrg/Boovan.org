@@ -46,6 +46,6 @@ description: "北美华人乐队 - 为乐趣、热爱和我们在乎的人而演
 聆听音乐
 {{< /button >}}
 
-{{< button href="/contact/" target="_self" >}}
+{{< button href="mailto:info@boovan.org" >}}
 联系我们
 {{< /button >}}

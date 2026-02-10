@@ -32,6 +32,6 @@ Listen to Our Music
 {{< /button >}}
 
 
-{{< button href="/contact/" target="_self" >}}
+{{< button href="mailto:info@boovan.org" >}}
 Contact Us
 {{< /button >}}

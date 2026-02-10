@@ -54,4 +54,4 @@ The Boovan (不晚) had a wonderful time performing at the 2026 Southlake Spring
 
 Thank you to everyone who came out to celebrate the Spring Festival with us! It's always a joy to share our music with the community.
 
-*Want us to perform at your event? [Get in touch!](/contact/)*
+*Want us to perform at your event? Email us at [info@boovan.org](mailto:info@boovan.org)!*

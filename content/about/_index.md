@@ -32,6 +32,6 @@ showTableOfContents: true
 {{< /button >}}
 
 
-{{< button href="/contact/" target="_self" >}}
+{{< button href="mailto:info@boovan.org" >}}
 联系我们
 {{< /button >}}
