@@ -32,6 +32,6 @@ Listen to Our Music
 {{< /button >}}
 
 
-{{< button href="mailto:info@boovan.org" >}}
+{{< button href="mailto:boovan.garage@gmail.com" >}}
 Contact Us
 {{< /button >}}

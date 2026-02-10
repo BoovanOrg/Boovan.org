@@ -33,4 +33,4 @@ tags: ["announcement", "website"]
 
 ---
 
-*有问题或想与我们合作？发邮件至 [info@boovan.org](mailto:info@boovan.org)！*
+*有问题或想与我们合作？发邮件至 [boovan.garage@gmail.com](mailto:boovan.garage@gmail.com)！*

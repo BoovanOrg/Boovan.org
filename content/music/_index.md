@@ -26,7 +26,7 @@ showTableOfContents: false
 - **现代翻唱** - 重新演绎的当代歌曲
 
 {{< alert "circle-info" >}}
-想听特定的歌曲或有特别的请求？发邮件至 [info@boovan.org](mailto:info@boovan.org)！
+想听特定的歌曲或有特别的请求？发邮件至 [boovan.garage@gmail.com](mailto:boovan.garage@gmail.com)！
 {{< /alert >}}
 
 ---
@@ -37,6 +37,6 @@ showTableOfContents: false
 
 ---
 
-{{< button href="mailto:info@boovan.org" >}}
+{{< button href="mailto:boovan.garage@gmail.com" >}}
 联系我们
 {{< /button >}}

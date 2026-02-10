@@ -54,4 +54,4 @@ tags: ["performance", "spring festival"]
 
 感谢所有来和我们一起庆祝春节的朋友们！与社区分享我们的音乐总是一件快乐的事。
 
-*想邀请我们在您的活动上演出？发邮件至 [info@boovan.org](mailto:info@boovan.org)！*
+*想邀请我们在您的活动上演出？发邮件至 [boovan.garage@gmail.com](mailto:boovan.garage@gmail.com)！*

@@ -32,6 +32,6 @@ showTableOfContents: true
 {{< /button >}}
 
 
-{{< button href="mailto:info@boovan.org" >}}
+{{< button href="mailto:boovan.garage@gmail.com" >}}
 联系我们
 {{< /button >}}

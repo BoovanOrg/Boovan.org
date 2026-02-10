@@ -13,5 +13,5 @@ Check back regularly for updates about our band, upcoming performances, new musi
 ---
 
 {{< alert "music" >}}
-**Want to stay in the loop?** Email us at [info@boovan.org](mailto:info@boovan.org) to join our mailing list for event announcements and updates!
+**Want to stay in the loop?** Email us at [boovan.garage@gmail.com](mailto:boovan.garage@gmail.com) to join our mailing list for event announcements and updates!
 {{< /alert >}}

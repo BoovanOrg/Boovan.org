@@ -13,5 +13,5 @@ showTableOfContents: false
 ---
 
 {{< alert "music" >}}
-**想及时了解最新动态？**发邮件至 [info@boovan.org](mailto:info@boovan.org) 加入我们的邮件列表，获取活动公告和更新！
+**想及时了解最新动态？**发邮件至 [boovan.garage@gmail.com](mailto:boovan.garage@gmail.com) 加入我们的邮件列表，获取活动公告和更新！
 {{< /alert >}}

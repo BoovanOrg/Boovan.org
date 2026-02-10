@@ -33,4 +33,4 @@ This is just the beginning! We'll be posting regular updates about our music, pe
 
 ---
 
-*Have questions or want to work with us? Email us at [info@boovan.org](mailto:info@boovan.org)!*
+*Have questions or want to work with us? Email us at [boovan.garage@gmail.com](mailto:boovan.garage@gmail.com)!*
