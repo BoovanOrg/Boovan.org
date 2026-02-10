@@ -29,18 +29,7 @@ Fill out the form below and we'll get back to you within 1-2 business days. Sele
 <label class="bf-label">Event Date (if applicable)</label>
 <input type="date" name="event-date" class="bf-input">
 </div>
-<div class="bf-form-group">
-<label class="bf-label">Service Category *</label>
-<select name="service-category" required class="bf-input">
-<option value="">Please select a service...</option>
-<option value="live-band">Live Band Performance</option>
-<option value="sound-services">Sound Services</option>
-<option value="pa-rental">PA Rental</option>
-<option value="bundle">Bundle Package</option>
-<option value="recording">Recording Services</option>
-<option value="other">Other / General Inquiry</option>
-</select>
-</div>
+
 <div class="bf-form-group">
 <label class="bf-label">Message *</label>
 <textarea name="message" rows="5" required class="bf-input" placeholder="Tell us about your event, needs, or inquiry..."></textarea>

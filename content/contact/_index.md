@@ -29,18 +29,7 @@ showTableOfContents: false
 <label class="bf-label">活动日期（如适用）</label>
 <input type="date" name="event-date" class="bf-input">
 </div>
-<div class="bf-form-group">
-<label class="bf-label">服务类别 *</label>
-<select name="service-category" required class="bf-input">
-<option value="">请选择服务...</option>
-<option value="live-band">乐队现场演出</option>
-<option value="sound-services">音响服务</option>
-<option value="pa-rental">音响设备租赁</option>
-<option value="bundle">套餐</option>
-<option value="recording">录音服务</option>
-<option value="other">其他 / 一般咨询</option>
-</select>
-</div>
+
 <div class="bf-form-group">
 <label class="bf-label">留言 *</label>
 <textarea name="message" rows="5" required class="bf-input" placeholder="请告诉我们您的活动、需求或咨询..."></textarea>
